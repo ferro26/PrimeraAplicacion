@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Entrar</string>
+    <string name="dummy_content">Bienvenido</string>
+</resources>
